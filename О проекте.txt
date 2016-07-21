@@ -1,0 +1,22 @@
+1) Авторизация login pass
+
+2) Только авторизированый может попасть в закладки "Register your Toll Free Number" и "Buy Your Toll Free Number"
+
+3) Log in страница входа
+
+4) Страница регистрации форма с ткими полями http://screencast.com/t/Uxr3Xl5dlp
+
+5) Зарегистрированый пользователь должен активировать свой аккунт с почты!
+
+
+
+
+
+
+
+
+
+СОКРЩЕНИЯ 
+
+
+1) DID means toll frer number 18xx
