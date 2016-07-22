@@ -13,6 +13,23 @@
 
 
 
+1.1) Buy your toll free number page -> click попадаем на страницу со слайдом 5 ( http://screencast.com/t/Y1HdwxCwAf )
+
+			Далее на странице http://screencast.com/t/Y1HdwxCwAf (Слайд 5 ) Нажимаем "Monthly PLan" ->
+			Попадаем На страницу со слайдом 6 ( http://screencast.com/t/BJgZsUHzlH )
+
+
+ 1.2 ) На 5 слайде http://screencast.com/t/ygmMGdxCgLes - добавить option в таблицу Monthly Fee и Per Monute Fee
+
+
+2.1) Front page кнопка Register your Toll Free Number по нажатию покадаем на слайд 8 http://screencast.com/t/wCbQSziQ и тут нада
+Добавить поля сюда нада [13:17:10] Upamanyu Akash: Need to add some more fields like address, city, state , zip
+[13:17:28] Upamanyu Akash: And short description field
+
+
+
+
+
 
 
 
@@ -20,3 +37,48 @@
 
 
 1) DID means toll frer number 18xx
+
+
+
+
+
+
+
+
+
+
+
+
+ПЕРЕПИСКА С КЛИЕНТОМ 
+
+
+
+[15:12:04] Bogdan Dvinin: on the front page all user have access to this 2 pages ? http://screencast.com/t/tMJS2uBin
+[15:24:15] Kwong Anne : yes
+[15:24:36] Kwong Anne : all users can register their toll free number
+[15:24:58] Kwong Anne : for registrant of new toll free number, we do need a admin approval step so we can avoid grabage insert
+[15:25:03] Kwong Anne : for toll free,
+[15:25:07] Kwong Anne : they can buy as new user
+[15:25:11] Kwong Anne : or they can buy as assisting user
+[15:25:16] Kwong Anne : if they buy as assisting user
+[15:25:18] Kwong Anne : they can
+[15:25:28] Kwong Anne : existig user
+[15:25:37] Kwong Anne : they can see all their toll free numbers inside one acocunt
+[15:25:57] Kwong Anne : for register their TF number, they need to enter
+[15:26:16] Kwong Anne : 1800 number, URL ( optional ), company name ( must have ) , short description ( optional )
+[15:31:10] Kwong Anne : in the search result http://www.awesomescreenshot.com/image/1417953/25d40974ba96f14c2dfdb6dc21f23be1
+[15:31:15] Kwong Anne : hi
+[15:31:19] Kwong Anne : is it clear?
+[15:31:24] Kwong Anne : pls let us know if there is question
+
+
+
+
+->
+
+[15:31:59] Kwong Anne : the process should be
+[15:32:04] Kwong Anne : 1 - they select the number they want
+[15:32:19] Kwong Anne : 2 - they either login as existing user  or they register as new user
+[15:32:44] Kwong Anne : 3 - if existing user and has credit , then we should deduct their 1 USD credit, if not, they need to select a plan or pay for credit
+[15:32:51] Kwong Anne : 4 - if new user they need to select a plan or pay for credit
+[15:33:02] Kwong Anne : they can choose one plan or pay as you go plan
